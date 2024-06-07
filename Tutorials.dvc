@@ -1,0 +1,6 @@
+outs:
+- md5: 2aa4ee767b3b93662faca38b2e00a402.dir
+  size: 199775494
+  nfiles: 74
+  hash: md5
+  path: Tutorials
